@@ -52,6 +52,7 @@
     },
     methods: {
       submitForm(event) {
+        
         this.$http.post('./topics', this.topics)
         .then((res) => {
           event.target.reset();
