@@ -1,6 +1,6 @@
 # vue-cnode
 
-[Live demo](http://damonowl.himmas.cc/vue-cnode/)
+[Live demo](http://damonowl.himmas.cc/vue-cnode/demo)
 
 ## Build Setup
 
