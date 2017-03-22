@@ -17,6 +17,7 @@ vue + vue-router + axios + less + ES6；使用webpack进行打包
 * 主题详情，回复
 
 # 目录结构
+``` bash
 .
 ├── build                           # 构建脚本
 │   ├── dev-server.js               # development server script
@@ -50,7 +51,7 @@ vue + vue-router + axios + less + ES6；使用webpack进行打包
 │
 ├── static                          # 静态资源目录               
 └── package.json
-
+```
 
 
 ## Build Setup
