@@ -1,8 +1,6 @@
 # vue-cnode
 
-[![Build Status](https://travis-ci.org/Himmas/vue-cnode.svg?branch=master)](https://travis-ci.org/Himmas/vue-cnode)
-
-[Live demo](https://himmas.github.io/vue-cnode/)
+[Live demo](http://damonowl.himmas.cc/vue-cnode/)
 
 ## Build Setup
 
